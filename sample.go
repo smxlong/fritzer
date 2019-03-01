@@ -1,7 +1,7 @@
 package fritzer
 
 type Sample struct {
-	Left float64
+	Left  float64
 	Right float64
 }
 
